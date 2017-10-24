@@ -1,0 +1,2 @@
+Ataque: 100
+Descripción: le encanta dormir y comer.
