@@ -1,3 +1,6 @@
 Rondoudou es el mejor pokemon
 porque es el que canta mejor
 y esta gordo
+
+Ataque: 1
+Defensa: 30 (es gordo)

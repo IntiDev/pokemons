@@ -1,3 +1,6 @@
 pikaaa
 es amarillo
 y feo
+
+Ataque: 923490345
+Defensa: 34

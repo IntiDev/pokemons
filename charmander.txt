@@ -2,3 +2,6 @@ char
 se dice Salameche y no Charmander
 aca
 caca
+
+Ataque:20
+Defensa:33
